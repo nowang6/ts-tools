@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local data and large files
+data/
+recognition_results.json
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# Dependency lock files
+yarn.lock
+
+# TypeScript cache
+*.tsbuildinfo
